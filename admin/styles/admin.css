@@ -1,0 +1,14 @@
+#navigation
+{
+    background-color:#474a51;
+    height:40px;
+}
+#navigation a
+{
+    color:aliceblue;
+    font-size: 21px;
+    float:left;
+    border-right: 1px solid black;
+    padding:5px;
+    text-decoration: none;
+}

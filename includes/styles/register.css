@@ -1,0 +1,34 @@
+div
+{
+    padding-left:550px;
+    padding-top:100px;
+}
+.reg
+{
+    border:1px solid black;
+    height: 140px;
+    width:250px;
+    padding:10px;
+}
+.title
+{
+    text-align: center;
+    background-color: black;
+    opacity:0.8;
+    color:aliceblue;
+    padding:0px;
+    margin:0px;
+    height:25px;
+}
+ h3 #succesfull
+{
+	text-align:center;
+	background-color:green;
+	color:white;
+}
+ h3 #error
+{
+	text-align:center;
+	background-color:red;
+	color:white;
+}

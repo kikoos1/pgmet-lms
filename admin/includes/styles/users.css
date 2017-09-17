@@ -1,0 +1,15 @@
+#title
+{
+    background-color: black;
+    font-size: 21px;
+    opacity:0.8;
+    text-align: center;
+    padding:5px;
+    color:aliceblue;
+    margin:0px 0px 5px 0px;
+    
+}
+table,th,td
+{
+    border:1px solid black;
+}
